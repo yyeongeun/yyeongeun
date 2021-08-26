@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<img src="https://qbs.kmu.ac.kr:442/index.php?page=1&wd=4&bb_code=2050&br_code=0&view=read&type=&where=&what=&cate=?style=flat-square&logo=My paper&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/My page-3766AB?style=#004833&logoColor=white"/></a>&nbsp
 
 
 <!--
