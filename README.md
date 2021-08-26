@@ -1,16 +1,7 @@
 ### Yeongeun Kim 👋
 
-    <a href='https://github.com/winston1214/My_paper'>
-        <img src='https://img.shields.io/badge/My Paper-yellow?&logo=Paddy-Power#004833&link=https://github.com/winston1214/My_paper'/>
-    </a>
-
-
-
 <div align=center>
-[![My paper](https://img.shields.io/badge/paper-ff69b4?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://qbs.kmu.ac.kr:442/index.php?page=1&wd=4&bb_code=2050&br_code=0&view=read&type=&where=&what=&cate=)
-  
-[![Tech Blog Badge](https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>)
-  
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyyeongeun&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://rladuddms.tistory.com/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shinmj.com)](mailto:ansdlf201567@gmail.com) 
