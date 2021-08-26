@@ -1,7 +1,11 @@
 ### Hi there 👋
 
-<img src="https://img.shields.io/badge/My page-3766AB?style=#004833&logoColor=white"/></a>&nbsp
 
+  <div align=center>
+	
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
+	
+  </div>
 
 <!--
 **yyeongeun/yyeongeun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
