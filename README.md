@@ -1,19 +1,18 @@
 ### Hi there 👋
 
-
   <div align=center>
-    [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyyeongeun&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+## Hyun Lee
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://hyunlee103.tistory.com/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shinmj.com)](mailto:chdnjf103@gmail.com) 
+[![CV](https://img.shields.io/badge/Curriculum%20Vitae-informational?style=flat-square&logo=Latex&logoColor=white&link=https://www.linkedin.com/in/soohwan-kim-532092182/)](https://github.com/HyunLee103/HyunLee103/files/6571390/CV_.pdf)
+### You can check my portfolio [Link](https://www.notion.so/bc43b18d250e4dedb67e5da8f25308b9) 
+  
+  
+[![Hyun's github stats](https://github-readme-stats.vercel.app/api?username=HyunLee103)](https://github.com/HyunLee103/github-readme-stats)
 
-    [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://rladuddms.tistory.com/)](https://rladuddms.tistory.com/)
-	
-    [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ansdlf201567@gmail.com)](mailto:ansdlf201567@gmail.com)
-
-    [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yyeongeun)](https://github.com/anuraghazra/github-readme-stats)
-  </div>
 
 <!--
-
-
+  
 
 **yyeongeun/yyeongeun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
