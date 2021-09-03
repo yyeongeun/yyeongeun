@@ -17,8 +17,8 @@
   </a>
   
 [![Yeongeun's github stats](https://github-readme-stats.vercel.app/api?username=yyeongeun)](https://github.com/yyeongeun/github-readme-stats)
- [![Yeongeun's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yyeongeun&langs_count=4
-)](https://github.com/yyeongeun/github-readme-stats)
+<br> 
+ [!(https://github-readme-stats.vercel.app/api/top-langs/?username=yyeongeun&langs_count=4)](https://github.com/yyeongeun/github-readme-stats)
 
  
  </div>
