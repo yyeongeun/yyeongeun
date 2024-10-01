@@ -9,7 +9,6 @@
  
 ### 🔥 ME 🔥 <br>
 <a href="https://qbs.kmu.ac.kr:442/index.php?page=1&wd=4&bb_code=2050&br_code=0&view=read&type=&where=&what=&cate=" target="_blank"><img src="https://img.shields.io/badge/My paper-FF61F6?style=flat-square&logo=Apache&logoColor=white"/>
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://rladuddms.tistory.com/)
 <a href="https://public.tableau.com/app/profile/yeongeun.kim" target="_blank"><img src="https://img.shields.io/badge/Tableu Public-E97627?style=flat-square&logo=Tableau&logoColor=white"/>
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shinmj.com)](mailto:ansdlf201567@gmail.com) 
 
